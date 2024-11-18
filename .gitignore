@@ -152,3 +152,4 @@ cython_debug/
 .idea/
 app.log
 *.db
+working.md
